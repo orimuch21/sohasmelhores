@@ -244,17 +244,17 @@ const eventos = {
     dias: {
       sex: {
         nome: "Dia 05, Sexta",
-        lineup: " ",
+        lineup: " Edson e Hudson (BEEF TOUR) ",
         horario: " ",
         ingresso: "#",
-        whatsapp: "https://wa.me/5513991603553?text=Quero%20Winter%20Opening%20no%20Pix%20na%20Sexta."
+        whatsapp: "https://wa.me/5513991603553?text=Quero%20Winter%20Festival%20no%20Pix%20na%20Sexta."
       },
       sab: {
         nome: "Dia 06, Sábado",
-        lineup: " ",
+        lineup: " Belo + Pixote ",
         horario: " ",
         ingresso: "#",
-        whatsapp: "https://wa.me/5513991603553?text=Quero%20Winter%20Opening%20no%20Pix%20no%20Sábado."
+        whatsapp: "https://wa.me/5513991603553?text=Quero%20Winter%20Festival%20no%20Pix%20no%20Sábado."
       }, 
     },
   },
