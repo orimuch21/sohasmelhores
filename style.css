@@ -1335,3 +1335,33 @@ footer {
   background: #25D366;
   color: #fff;
 }
+
+.assinatura-dev.minimal {
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 13px;
+  color: #888;
+  border-top: 1px solid rgba(255,255,255,0.1); /* se fundo for escuro */
+}
+
+.assinatura-dev.minimal p {
+  margin: 0;
+}
+
+.assinatura-dev.minimal strong {
+  color: #fff; /* destaque no nome */
+  font-weight: 600;
+}
+
+.assinatura-dev.minimal a {
+  color: #25D366;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 5px;
+  transition: 0.3s;
+}
+
+.assinatura-dev.minimal a:hover {
+  color: #1ebe5d;
+  text-decoration: underline;
+}
