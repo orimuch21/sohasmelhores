@@ -84,21 +84,21 @@ const eventos = {
         nome: "Dia 04, Quinta",
         lineup: "🎤 NATTAN (show principal) • Juninho Campos 🎧 Bruna Brambila • Graeff",
         horario: "18h às 06h",
-        ingresso: "#",
+        ingresso: "https://cart.totalacesso.com/chateau2026?utm_source=promoter&utm_campaign=igorkp&promocode=igorkp",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Chateau%20no%20Pix%20na%20Quinta."
       },
       sex: {
         nome: "Dia 05, Sexta",
         lineup: "🎶 Syon Trio 🎧 DJ Japa NK • 🎧 Liu • 🎧 Graeff",
         horario: "20h às 08h",
-        ingresso: "#",
+        ingresso: "https://cart.totalacesso.com/chateau2026?utm_source=promoter&utm_campaign=igorkp&promocode=igorkp",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Chateau%20no%20Pix%20na%20Sexta."
       },
       sb: {
         nome: "Dia 06, Sábado",
         lineup: "🎧 Dubdogz • 🎧 Cat Dealers • 🎧 Ashibah • 🎧 RoofTime • Armando A. • Edu Poppo",
         horario: "20h às 08h",
-        ingresso: "#",
+        ingresso: "https://cart.totalacesso.com/chateau2026?utm_source=promoter&utm_campaign=igorkp&promocode=igorkp",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Chateau%20no%20Pix%20no%20Sábado."
       },
     },
