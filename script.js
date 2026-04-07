@@ -89,14 +89,14 @@ const eventos = {
       },
       sex: {
         nome: "Dia 05, Sexta",
-        lineup: "🎶 Syon Trio 🎧 DJ Japa NK • Liu • Graeff",
+        lineup: "🎶 Syon Trio 🎧 DJ Japa NK • 🎧 Liu • 🎧 Graeff",
         horario: "20h às 08h",
         ingresso: "#",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Chateau%20no%20Pix%20na%20Sexta."
       },
       sb: {
         nome: "Dia 06, Sábado",
-        lineup: "🎧 Dubdogz • Cat Dealers • Ashibah • RoofTime • Armando A. • Edu Poppo",
+        lineup: "🎧 Dubdogz • 🎧 Cat Dealers • 🎧 Ashibah • 🎧 RoofTime • Armando A. • Edu Poppo",
         horario: "20h às 08h",
         ingresso: "#",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Chateau%20no%20Pix%20no%20Sábado."
@@ -127,7 +127,7 @@ const eventos = {
   },
   sessions: {
     titulo: "Winter Sessions",
-    imagem: "images/corpus-christ/winter-sessions.jpeg",
+    imagem: "images/corpus-christ/winter-sessions.png",
     data: "📅 04 a 06 Junho • Campos do Jordão",
     dias: {
       qui: {
@@ -139,14 +139,14 @@ const eventos = {
       },
       sex: {
         nome: "Dia 05, Sexta",
-        lineup: "🎶 Syon Trio 🎧 DJ Japa NK • Liu • Graeff",
+        lineup: " ",
         horario: "20h às 08h",
         ingresso: "#",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Winter%20Sessions%20no%20Pix%20na%20Sexta."
       },
       sb: {
         nome: "Dia 06, Sábado",
-        lineup: "🎧 Dubdogz • Cat Dealers • Ashibah • RoofTime • Armando A. • Edu Poppo",
+        lineup: " ",
         horario: "20h às 08h",
         ingresso: "#",
         whatsapp: "https://wa.me/5513991603553?text=Quero%20Winter%20Sessions%20no%20Pix%20no%20Sábado."
@@ -180,6 +180,20 @@ const eventos = {
         whatsapp: "https://wa.me/5513991603553?text=Quero%Baile%20in%20Campos%20no%20Pix%20na%20Sexta."
       },
     },
+  },
+  sertanejo: {
+    titulo: "Sertanejo no Inverno",
+    imagem: "images/corpus-christ/sertanejo.png",
+    data: "📅 05 Junho • Campos do Jordão",
+    dias: {
+      unico: {
+        nome: "Único",
+        lineup: "🎤 Clayton & Romário • 🎤 Matheuzinho • 🎧 Greg ᴇ Gont",
+        horario: "22h às 07h",
+        ingresso: "#",
+        whatsapp: "https://wa.me/5513991603553?text=Quero%20Sertanejo%20no%20Inverno%20no%20Pix%20na%20Sexta."
+      }
+    }
   },
   soul: {
     titulo: "Soul Campos",
