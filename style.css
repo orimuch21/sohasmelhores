@@ -957,12 +957,12 @@ transform:scale(1.1);
 
 /* CONTAINER LADO A LADO */
 .insta-container {
-  display: grid;
-  grid-template-columns: 1fr 1.2fr;
-  gap: 50px;
-  max-width: 1200px;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
   align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
 }
 
 /* ===== LADO ESQUERDO (CENTRALIZADO) ===== */
@@ -972,6 +972,8 @@ transform:scale(1.1);
   align-items: center;
   justify-content: center;
   text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
 }
 
 /* LOGO */
